@@ -23,3 +23,8 @@ the script(`automate.sh`).
 4. Edit `automate.sh`(script which will be executed when you push to remote repo on oschina) as you wish.
 
 5. Run `python2 app.py` and `python automate.py` on your server.
+
+
+####License
+
+MIT
