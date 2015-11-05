@@ -1,4 +1,4 @@
-##oschinaAutomation
+##oschina-hook
 
 A simple tool to pull code from oschina with webhook of oschina
 
