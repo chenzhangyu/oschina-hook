@@ -1,0 +1,6 @@
+venv/
+*.swp
+setting.py
+*.pyc
+.backExclude
+rsync.sh
